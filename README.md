@@ -2,10 +2,6 @@
 
 This RGB Color Picker is a simple tool that allows users to select colors using sliders for red, green, and blue components.
 
-## Description
-
-The RGB Color Picker provides a user-friendly interface with sliders for adjusting the red, green, and blue values individually. As users adjust the sliders, the color box and RGB values are updated in real-time to reflect the selected color.
-
 ## DEMO LIVE 
 
 [***Click here***](https://karangautam0.github.io/RGB-Color-Generator/) to visit the website.
